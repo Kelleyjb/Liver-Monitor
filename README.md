@@ -18,3 +18,9 @@
  
  ## Final UI
   This interface will be responsible for displaying K-cluster results as well as holding options for reloading/manipulation of data.
+  
+ ## Work-In-Progress Features
+- Auto-Filtering/Identifying Columns of the Data
+- Adjusting k-cluster to work with any # of fields
+- Toggles
+- Finall UI
