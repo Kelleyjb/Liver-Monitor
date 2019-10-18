@@ -25,13 +25,13 @@
 - Toggles
 - Finall UI
 - Normalize/Scaling
-  _ Issue with using data from different sources so it needs to be normalized for comparision
+  - Issue with using data from different sources so it needs to be normalized for comparision
   - If there are fields which are more important, they should be scaled appropriately. Hopefully there will be a feature to  adjust the scaling values for each field
 - Strategy for Tackling Null Values
-  _ There are many null values spread through the data and they need to be handled 
+  - There are many null values spread through the data and they need to be handled 
 	 - Discard
-		  _ Discard the entire record
+		  - Discard the entire record
 	 - Replace
-		  _ Replace the value with the most common value 
+		  - Replace the value with the most common value 
 		  - Replace the value with an average of all the present values
-    - Replace the value with a 'ideal' value, if one exists
+                  - Replace the value with a 'ideal' value, if one exists
