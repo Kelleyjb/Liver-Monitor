@@ -34,4 +34,4 @@
 	 - Replace
 		  - Replace the value with the most common value 
 		  - Replace the value with an average of all the present values
-                  - Replace the value with a 'ideal' value, if one exists
+		  - Replace the value with a 'ideal' value, if one exists
